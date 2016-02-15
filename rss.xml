@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[•ClarkOnline•]]></title>
         <description><![CDATA[•ClarkOnline•]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/clarkonline/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 13:16:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 15 Feb 2016 14:38:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/clarkonline/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://media.giphy.com/media/l41m1BRyc0LAfY9Y4/giphy.gif">]]></description>
+            <link>http://giphy.com/gifs/cinemagraph-plantrait-tree-d-l41m1BRyc0LAfY9Y4</link>
+            <guid isPermaLink="false">6563c432-b88b-4d60-92c2-897146eb06ba</guid>
+            <pubDate>Mon, 15 Feb 2016 14:38:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Carbot - Heroes of the Dorm 2016]]></title>
             <description><![CDATA[<article><h1>Carbot - Heroes of the Dorm 2016</h1><p>Heroes of the Dorm is back! Solidify your chance to win college tuition by registering your team for one of the biggest collegiate esport clashes to date.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/053874f01a9315ccbe324a989ad0c0644003c999.jpg"></article>]]></description>
