@@ -6,12 +6,12 @@ color:
     - '#e7c68c'
     - '#de9c71'
     - '#356d89'
-  brandStrength: 0.75
+  brandStrength: 0.459704
   lightness: 0
   rhythmicContrast: 0.5
-  saturation: 0
+  saturation: 0.509868
 cta: {}
-layout_spectrum: 1
+layout_spectrum: 0
 name: Clark•Online
 opengraph: {}
 purpose:
