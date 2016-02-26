@@ -1,15 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.instagram.com/p/IW7AaEMWU9/?taken-by=cfuell'
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2016-02-25T23:47:53.449Z'
+dateModified: '2016-02-25T23:47:38.201Z'
 author:
   - name: cfuell
     url: 'https://www.instagram.com/cfuell'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.instagram.com'
-  name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
-  domain: www.instagram.com
-keywords: []
 app_links:
   - url: 'instagram://media?id=150567150295278909'
     type: ios
@@ -25,15 +29,15 @@ app_links:
     package: com.instagram.android
     namespace: google
     type: android
-isBasedOnUrl: 'https://www.instagram.com/p/IW7AaEMWU9/?taken-by=cfuell'
 title: Coffee Time
-datePublished: '2016-02-25T22:59:29.179Z'
-dateModified: '2016-02-25T22:57:48.817Z'
 sourcePath: _posts/2016-02-25-coffee-time.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Instagram
+  domain: www.instagram.com
+  url: 'https://www.instagram.com'
+  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
 _type: Photograph
 _context: 'http://schema.org'
 
