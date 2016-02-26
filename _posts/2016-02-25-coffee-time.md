@@ -27,8 +27,8 @@ app_links:
     type: android
 isBasedOnUrl: 'https://www.instagram.com/p/IW7AaEMWU9/?taken-by=cfuell'
 title: Coffee Time
-datePublished: '2016-02-25T22:59:29.155Z'
-dateModified: '2016-02-25T22:57:48.689Z'
+datePublished: '2016-02-25T22:59:29.179Z'
+dateModified: '2016-02-25T22:57:48.817Z'
 sourcePath: _posts/2016-02-25-coffee-time.md
 published: true
 inFeed: true
