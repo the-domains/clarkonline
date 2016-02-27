@@ -1,15 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.instagram.com/p/IZg1SlMWdN/?taken-by=cfuell'
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2016-02-27T10:20:37.478Z'
+dateModified: '2016-02-27T10:20:21.389Z'
 author:
   - name: cfuell
     url: 'https://www.instagram.com/cfuell'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.instagram.com'
-  name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
-  domain: www.instagram.com
-keywords: []
 app_links:
   - url: 'instagram://media?id=151296462065592141'
     type: ios
@@ -25,15 +29,15 @@ app_links:
     package: com.instagram.android
     namespace: google
     type: android
-isBasedOnUrl: 'https://www.instagram.com/p/IZg1SlMWdN/?taken-by=cfuell'
 title: 'Instagram photo by @cfuell * Mar 20, 2012 at 3:06pm UTC'
-datePublished: '2016-02-25T22:59:29.140Z'
-dateModified: '2016-02-25T22:57:55.675Z'
 sourcePath: _posts/2016-02-25-instagram-photo-by-cfuell-mar-20-2012-at-306pm-utc.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Instagram
+  domain: www.instagram.com
+  url: 'https://www.instagram.com'
+  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
 _type: Photograph
 _context: 'http://schema.org'
 
