@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-25T23:47:53.449Z'
-dateModified: '2016-02-25T23:47:38.201Z'
+datePublished: '2016-03-04T12:24:48.699Z'
+dateModified: '2016-03-04T12:24:36.828Z'
 author:
   - name: cfuell
     url: 'https://www.instagram.com/cfuell'
@@ -42,4 +42,4 @@ _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![Coffee Time](https://scontent.cdninstagram.com/t51.2885-15/e15/11190701_412792785569049_684134330_n.jpg?ig_cache_key=MTUwNTY3MTUwMjk1Mjc4OTA5.2)
+![Coffee Time](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba6a17ff735a0d0c48b3c370b9919b1f168755f6.jpg)
