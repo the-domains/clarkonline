@@ -1,15 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.instagram.com/p/JPVL0NMWRo/?taken-by=cfuell'
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2016-03-04T12:24:46.986Z'
+dateModified: '2016-03-04T12:24:46.523Z'
 author:
   - name: cfuell
     url: 'https://www.instagram.com/cfuell'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.instagram.com'
-  name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
-  domain: www.instagram.com
-keywords: []
 app_links:
   - url: 'instagram://media?id=166444882182890600'
     type: ios
@@ -25,17 +29,17 @@ app_links:
     package: com.instagram.android
     namespace: google
     type: android
-isBasedOnUrl: 'https://www.instagram.com/p/JPVL0NMWRo/?taken-by=cfuell'
 title: 'Kuma the #akita toys take 2'
-datePublished: '2016-02-25T22:59:29.206Z'
-dateModified: '2016-02-25T22:57:26.436Z'
 sourcePath: _posts/2016-02-25-kuma-the-akita-toys-take-2.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Instagram
+  domain: www.instagram.com
+  url: 'https://www.instagram.com'
+  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
 _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![Kuma the &num;akita toys take 2](https://scontent.cdninstagram.com/t51.2885-15/e15/11202938_395062640701176_136719872_n.jpg?ig_cache_key=MTY2NDQ0ODgyMTgyODkwNjAw.2)
+![Kuma the #akita toys take 2](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3216bdc98ce2025f9308bd7ce06afb2474c99d37.jpg)
