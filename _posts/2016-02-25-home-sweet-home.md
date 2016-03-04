@@ -1,15 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.instagram.com/p/gpmE4tMWZm/?taken-by=cfuell'
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2016-03-04T12:25:02.066Z'
+dateModified: '2016-03-04T12:25:00.811Z'
 author:
   - name: cfuell
     url: 'https://www.instagram.com/cfuell'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.instagram.com'
-  name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
-  domain: www.instagram.com
-keywords: []
 app_links:
   - url: 'instagram://media?id=588168687881643622'
     type: ios
@@ -25,17 +29,17 @@ app_links:
     package: com.instagram.android
     namespace: google
     type: android
-isBasedOnUrl: 'https://www.instagram.com/p/gpmE4tMWZm/?taken-by=cfuell'
 title: Home sweet home
-datePublished: '2016-02-25T22:59:29.414Z'
-dateModified: '2016-02-25T22:56:44.781Z'
 sourcePath: _posts/2016-02-25-home-sweet-home.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Instagram
+  domain: www.instagram.com
+  url: 'https://www.instagram.com'
+  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
 _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![Home sweet home](https://scontent.cdninstagram.com/t51.2885-15/e15/1388899_1374669929446430_867923450_n.jpg?ig_cache_key=NTg4MTY4Njg3ODgxNjQzNjIy.2)
+![Home sweet home](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a0f97e99d82ccaff537887e311b06ef4535e60f9.jpg)
