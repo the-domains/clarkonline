@@ -1,4 +1,19 @@
-analytics: {}
+name: Clark•Online
+favicon: null
+layout_spectrum: 0.9212
+typography_spectrum: 0
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#010101'
@@ -8,12 +23,9 @@ color:
     - '#85ea00'
   brandStrength: 0
   lightness: 0.375
-  rhythmicContrast: 1
   saturation: 0.5625
-cta: {}
-layout_spectrum: 0.78674
-name: Clark•Online
-opengraph: {}
+  rhythmicContrast: 1
 purpose:
-  - {}
-typography_spectrum: 0
+  - name: null
+    item: null
+    url: null
