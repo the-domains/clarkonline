@@ -4,11 +4,10 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://www.instagram.com/p/IW7AaEMWU9/?taken-by=cfuell'
 inLanguage: null
-starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-04T12:24:48.699Z'
-dateModified: '2016-03-04T12:24:36.828Z'
+datePublished: '2016-05-09T16:49:35.378Z'
+dateModified: '2016-05-09T16:49:28.953Z'
 author:
   - name: cfuell
     url: 'https://www.instagram.com/cfuell'
@@ -31,13 +30,13 @@ app_links:
     type: android
 title: Coffee Time
 sourcePath: _posts/2016-02-25-coffee-time.md
-published: true
 authors: []
 publisher:
   name: Instagram
   domain: www.instagram.com
   url: 'https://www.instagram.com'
   favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
+starred: false
 _type: Photograph
 _context: 'http://schema.org'
 
